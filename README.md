@@ -90,6 +90,7 @@ class ApiController extends Controller
 
 ````
 ````.env
+// .env
 ```
 DB_CONNECTION=ebudget
 DB_EBUDGET_PORT=3306
